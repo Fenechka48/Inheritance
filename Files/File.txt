@@ -1,0 +1,478 @@
+Hello Files
+ñàì ïðèâåò
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Are there any good books to learn how to - C++ Forum</title>
+<link rel="canonical" href="https://cplusplus.com/forum/windows/285291/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400&family=Roboto+Condensed:wght@400;700&family=Inconsolata:wght@400&family=Roboto:ital,wght@0,400;0,700;1,700&display=swap" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/v3.3.4/site.css">
+<script src="/v3.3.4/main.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+        (function(){
+            var bsa_optimize=document.createElement('script');
+            bsa_optimize.type='text/javascript';
+            bsa_optimize.async=true;
+            bsa_optimize.src='https://cdn4.buysellads.net/pub/cplusplus.js?'+(new Date()-new Date()%600000);
+            (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa_optimize);
+        })();
+    </script>
+</head>
+<body>
+<div id="I_container">
+<div id="I_top">
+<div id="I_header">
+<div id="I_logo"><a href="/">
+<div id="I_icon" title="C++"></div>
+<div id="I_site" title="cplusplus.com">
+<svg xmlns='http://www.w3.org/2000/svg' style='fill:#fff' viewBox='0 0 120 36'><text x='0' y='22' textLength='120' lengthAdjust='spacingAndGlyphs' font-family='Roboto,sans-serif' font-size='22px' font-style='italic' font-weight='bold' style='fill:#fff'>cplusplus</text><text id='tld' x='80' y='34' textLength='38' lengthAdjust='spacingAndGlyphs' font-family='Roboto,arial' font-size='12px' font-style='italic' font-weight='bold' style='fill:#cde'>.com</text></svg>
+</div>
+</a></div>
+<div id="I_navsch">
+<div id="I_navigation"><ul>
+<li><a href="/doc/">TUTORIALS</a></li>
+<li><a href="/reference/">REFERENCE</a></li>
+<li><a href="/articles/">ARTICLES</a></li>
+<li><a href="/forum/">FORUM</a></li>
+</ul></div>
+<div id="I_search">
+<script async src="https://cse.google.com/cse.js?cx=partner-pub-7688470879129516:0646519325"></script>
+<div class="gcse-searchbox-only" enableAutoComplete="true" resultsUrl="/search.do"></div>
+</div>
+</div>
+<div id="I_user" class="C_LoginBox" data-ajax="ajax"></div></div>
+</div>
+<div id="I_mid">
+<div id="I_cols">
+<div id="I_left">
+<div id="I_nav">
+<div class="sect root">
+<h3><b><a href="/">C++</a></b></h3>
+<ul>
+<li class="folder doc"><a href="/doc/">Tutorials</a></li>
+<li class="folder reference"><a href="/reference/">Reference</a></li>
+<li class="folder articles"><a href="/articles/">Articles</a></li>
+<li class="folder selected forum"><a href="/forum/">Forum</a></li>
+</ul>
+</div>
+<div class="sect">
+<h3><b><a href="/forum/">Forum</a></b></h3>
+<ul>
+<li><a href="/forum/beginner/"><b>Beginners</b></a></li><li class="selected"><a href="/forum/windows/"><b>Windows Programming</b></a></li><li><a href="/forum/unices/"><b>UNIX/Linux Programming</b></a></li><li><a href="/forum/general/"><b>General C++ Programming</b></a></li><li><a href="/forum/lounge/"><b>Lounge</b></a></li><li><a href="/forum/jobs/"><b>Jobs</b></a></li></ul>
+</div>
+<div id="I_subnav"></div>
+</div>
+</div>
+<div id="I_main">
+<div id="I_bar">
+<div id="I_burger">
+<svg focusable="false" viewBox="0 0 24 24"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"></path></svg></div>
+<ul>
+<li><a href="/forum/">Forum</a></li>
+<li><a href="/forum/windows/">Windows Programming</a></li>
+<li class="here">Are there any good books to learn how to</li>
+</ul>
+</div>
+<div class="C_bn" style="width:100%">
+
+<!-- cplusplus_S2S_Leaderboard_ATF_ROS -->
+        <style>
+            @media only screen and (min-width: 0px) and (min-height: 0px) {
+                div[id^="bsa-zone_1661765511757-3_123456"] {
+                    min-width: 300px;
+                    min-height: 50px;
+                }
+            }
+            @media only screen and (min-width: 640px) and (min-height: 0px) {
+                div[id^="bsa-zone_1661765511757-3_123456"] {
+                    min-width: 468px;
+                    min-height: 60px;
+                }
+            }
+        </style>
+        <div id="bsa-zone_1661765511757-3_123456"></div>
+</div>
+<div id="I_content">
+<h3><div class="C_ico default" title="post">&nbsp;</div> Are there any good books to learn how to do Windows apps?</h3><span id="CH_edttl"></span><span class="rootdatPost" title="285291,root,0,-1,12,0"></span><div id="CH_PostList"><div class="C_forPost" id="msg1238757"><span title="1238757,836624,1023,49,1"></span>
+<div class="box">
+<div class="boxtop">
+<div class="dwhen"><a href="#msg1238757" title="Link to this post"><img src="/img/link.png" width="16" height="8"></a> <span id="CH_zTm763e2592a4" title="Sun, 19 Feb 2023 02:29:45 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTm763e2592a4');</script><noscript>Feb 19, 2023 at 2:29am UTC</noscript></div>
+<div class="dwho"><a href="/user/mathman54/"><b>mathman54</b> (49)</a></div>
+</div>
+<div class="dwhat" colspan="2" id="CH_i1238757">
+HI All,<br>
+I want to learn how to do Windows apps. Does anyone know where on the internet or a good book to buy to learn how to do this? I have been searching the internet and Amazon for a decent book and have become aggravated with this search.<br>
+Years ago Microsoft included in Visual Studio Visual C++. They have changed that. Now there is WinUI, .Net, ASP.Net. There are also things like Blazor, Maui and a bunch of other things that I don't know very much about.<br>
+I have 2 books on C++ but I am not interested in doing console apps. These books have over 800 pages of code. Windows is about GUI's.<br>
+I have watched some videos but they are done by Indians and they have heavy accents and talk fast making it difficult for this old man to follow.<br>
+This is a Windows Programming forum so I hope that someone here can help.<br>
+Thanks <br>
+Mark
+</div>
+<div class="dhow">
+<span class="sedited">Last edited on <span id="CH_zTm46fbd7a1f0" title="Sun, 19 Feb 2023 02:34:03 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTm46fbd7a1f0');</script><noscript>Feb 19, 2023 at 2:34am UTC</noscript></span>
+<span class="dbtn" id="CH_btn1238757"></span>
+
+</div>
+</div>
+</div>
+<div class="C_forPost" id="msg1238760"><span title="1238760,455644,1023,5239,0"></span>
+<div class="box">
+<div class="boxtop">
+<div class="dwhen"><a href="#msg1238760" title="Link to this post"><img src="/img/link.png" width="16" height="8"></a> <span id="CH_zTm1f5604e1bd" title="Sun, 19 Feb 2023 09:53:46 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTm1f5604e1bd');</script><noscript>Feb 19, 2023 at 9:53am UTC</noscript></div>
+<div class="dwho"><a href="/user/George_P/"><b>George P</b> (5239)</a></div>
+</div>
+<div class="dwhat" colspan="2" id="CH_i1238760">
+ The "Bible" of Windows API programming:<br>
+<br>
+"Programming Windows", Fifth Edition by Charles Petzold.<br>
+<a href="https://www.amazon.com/Programming-Windows®-Fifth-Developer-Reference/dp/157231995X/">https://www.amazon.com/Programming-Windows®-Fifth-Developer-Reference/dp/157231995X/</a><br>
+<br>
+The book was originally written and published for Win9X, so not every code example will compile without some modifications.<br>
+<br>
+The code examples have been updated and put into a gitub repo.<br>
+<br>
+<a href="https://github.com/recombinant/petzold-pw5e">https://github.com/recombinant/petzold-pw5e</a><br>
+<br>
+There is a 6th edition of "Programming Windows," but it uses C# and is targeted for Win 8.<br>
+<br>
+There a similar book for MFC programming: "Programming Windows with MFC", Second Edition by Jeff Prosise.<br>
+<a href="https://www.amazon.com/gp/product/1572316950/">https://www.amazon.com/gp/product/1572316950/</a><br>
+<br>
+As I said, neither book is recent, but they still do a good job of showing the nitty-gritty of bashing together code for low-level Win programming.<br>
+<br>
+There really is no "one stop shopping" online when it comes to tutorials and example code for learning Win32 technology anymore. Examples are flung far and wide in tidbits here and there.<br>
+<br>
+theForger's Win32 API Tutorial is still available. It is a bare-bones beginners look at the Win32 API.<br>
+<br>
+<a href="http://www.winprog.org/tutorial/">http://www.winprog.org/tutorial/</a><br>
+<br>
+Fair warning: the code was written back in Win9X days, the Win32 API has changed since then. I have a github repo where I updated the code to better reflect modern Win API coding practices.<br>
+<br>
+<a href="https://github.com/GeorgePimpleton/theForger-winapi-tutorial">https://github.com/GeorgePimpleton/theForger-winapi-tutorial</a><br>
+<br>
+Two more WinAPI tutorials.<br>
+<a href="https://riptutorial.com/winapi">https://riptutorial.com/winapi</a><br>
+<a href="http://www.flounder.com/mvp_tips.htm">http://www.flounder.com/mvp_tips.htm</a><br>
+<br>
+A tutorial for MFC, though I can't say it if it good or not. I've only skimmed the contents.<br>
+<a href="https://www.tutorialspoint.com/mfc/index.htm">https://www.tutorialspoint.com/mfc/index.htm</a><br>
+<br>
+Older versions of the WinAPI SDK were available for download, and included example sample code along with the Win SDK documentation accessible offline. I believe it is still possible to download the archives, though I haven't looked for any for years.<br>
+<br>
+MS has git repositories for Windows API sample code online, though the samples are coded to use the WinRT and C++. The original WinAPI was C based.<br>
+<br>
+MS documentation for the WinAPI is all online now. Hard to follow and get an overview of what's available IMO.<br>
+<br>
+There's a lot of 3rd party code available out on the interwebz for C-based WinAPI and MFC still.<br>
+<br>
+Microsoft as a github repo of a lot of "classic" code examples for Windows Desktop apps.<br>
+<a href="https://github.com/microsoft/Windows-classic-samples">https://github.com/microsoft/Windows-classic-samples</a><br>
+
+</div>
+<div class="dhow">
+<span class="dbtn" id="CH_btn1238760"></span>
+
+</div>
+</div>
+</div>
+<div class="C_forPost" id="msg1238762"><span title="1238762,797040,1023,5982,0"></span>
+<div class="box">
+<div class="boxtop">
+<div class="dwhen"><a href="#msg1238762" title="Link to this post"><img src="/img/link.png" width="16" height="8"></a> <span id="CH_zTma29d82b973" title="Sun, 19 Feb 2023 11:00:35 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTma29d82b973');</script><noscript>Feb 19, 2023 at 11:00am UTC</noscript></div>
+<div class="dwho"><a href="/user/seeplus/"><b>seeplus</b> (5982)</a></div>
+</div>
+<div class="dwhat" colspan="2" id="CH_i1238762">
+Do you mean a Windows 'app' (ie as in UWP - Universal Windows Program) or a C++ program that uses a 3rd party library for its gui? There is a big difference!<br>
+<br>
+What George describes above is for Microsoft WIN32 API (basically using c-style functions) and Microsoft MFC (using C++ classes).<br>
+<br>
+If you want a Windows UWP app, then there is C++/Winrt.<br>
+<a href="https://learn.microsoft.com/en-us/windows/uwp/cpp-and-winrt-apis/intro-to-using-cpp-with-winrt">https://learn.microsoft.com/en-us/windows/uwp/cpp-and-winrt-apis/intro-to-using-cpp-with-winrt</a><br>
+<br>
+But before you get into buying books/resources etc for C++ gui programming, you need to decide upon which 3rd party library/framework etc you are going to use. The books are usually specific to a particular library.<br>
+<br>
+For a sample of those available, see Graphical User Interface in<br>
+<a href="https://en.cppreference.com/w/cpp/links/libs">https://en.cppreference.com/w/cpp/links/libs</a><br>
+<br>
+PS. Stroustrup's book 'Programming: Principles and Practice Using C++' uses the FLTK gui library.<br>
+ <br>
+PPS. There's also C++/cli which uses .net. Although if you go down the .net route IMO you'd be better off using c# rather than C++.<br>
+<br>
+WIN32, MFC, cli, winrt (and c# and .net) are all part of Visual Studio (although depending upon your installation options may need to be installed from within VS Installer). So they cannot be used with another compiler.<br>
+<br>
+However, there is Embarcadero C++ Builder which has its VCL (Visual Component Library). There is the free Community Edition:<br>
+<a href="https://www.embarcadero.com/products/cbuilder/starter">https://www.embarcadero.com/products/cbuilder/starter</a><br>
+<br>
+This may be more what you're looking for.<br>
+<br>
+Other 3rd party libraries (eg FLTK) if used will need to be downloaded/installed etc separately.<br>
+
+</div>
+<div class="dhow">
+<span class="sedited">Last edited on <span id="CH_zTmed7c9027f2" title="Sun, 19 Feb 2023 12:29:40 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTmed7c9027f2');</script><noscript>Feb 19, 2023 at 12:29pm UTC</noscript></span>
+<span class="dbtn" id="CH_btn1238762"></span>
+
+</div>
+</div>
+</div>
+<div class="C_forPost" id="msg1238765"><span title="1238765,836624,1023,49,0"></span>
+<div class="box">
+<div class="boxtop">
+<div class="dwhen"><a href="#msg1238765" title="Link to this post"><img src="/img/link.png" width="16" height="8"></a> <span id="CH_zTm3a651d8051" title="Mon, 20 Feb 2023 03:10:30 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTm3a651d8051');</script><noscript>Feb 20, 2023 at 3:10am UTC</noscript></div>
+<div class="dwho"><a href="/user/mathman54/"><b>mathman54</b> (49)</a></div>
+</div>
+<div class="dwhat" colspan="2" id="CH_i1238765">
+Look, I want to do modern C++ gui apps. I am not interested in 32 bit apps. Those apps a dying. <br>
+I have found Win App SDK with Win UI3. There is some .NET stuff. I just want to do 64 bit Windows 11 apps. I have ideas that I want to bring to life.<br>
+I have Visual Studio Community installed. This is the ide that I am interested in learning with.
+</div>
+<div class="dhow">
+<span class="sedited">Last edited on <span id="CH_zTm005c9a351a" title="Mon, 20 Feb 2023 03:12:35 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTm005c9a351a');</script><noscript>Feb 20, 2023 at 3:12am UTC</noscript></span>
+<span class="dbtn" id="CH_btn1238765"></span>
+
+</div>
+</div>
+</div>
+<div class="C_forPost" id="msg1238767"><span title="1238767,240377,1023,3755,0"></span>
+<div class="box">
+<div class="boxtop">
+<div class="dwhen"><a href="#msg1238767" title="Link to this post"><img src="/img/link.png" width="16" height="8"></a> <span id="CH_zTm8684526a34" title="Mon, 20 Feb 2023 06:04:21 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTm8684526a34');</script><noscript>Feb 20, 2023 at 6:04am UTC</noscript></div>
+<div class="dwho"><a href="/user/mbozzi/"><b>mbozzi</b> (3755)</a></div>
+</div>
+<div class="dwhat" colspan="2" id="CH_i1238767">
+Win32 is the native API that every other tech mentioned so far relies on as its bottom layer.  Its just a name.  Programs using it aren't limited to 32 bit systems.
+</div>
+<div class="dhow">
+<span class="sedited">Last edited on <span id="CH_zTmbc1e1180f3" title="Mon, 20 Feb 2023 06:06:21 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTmbc1e1180f3');</script><noscript>Feb 20, 2023 at 6:06am UTC</noscript></span>
+<span class="dbtn" id="CH_btn1238767"></span>
+
+</div>
+</div>
+</div>
+<div class="C_forPost" id="msg1238770"><span title="1238770,455644,1023,5239,0"></span>
+<div class="box">
+<div class="boxtop">
+<div class="dwhen"><a href="#msg1238770" title="Link to this post"><img src="/img/link.png" width="16" height="8"></a> <span id="CH_zTm61debdace8" title="Mon, 20 Feb 2023 13:55:01 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTm61debdace8');</script><noscript>Feb 20, 2023 at 1:55pm UTC</noscript></div>
+<div class="dwho"><a href="/user/George_P/"><b>George P</b> (5239)</a></div>
+</div>
+<div class="dwhat" colspan="2" id="CH_i1238770">
+<table class="quote"><tr><td class="qd">I am not interested in 32 bit apps. Those apps a dying.</td></tr></table><br>
+Win32 is still very much alive, under changed names.  The WinAPI.<br>
+<br>
+The technology is still available and useful, all the current and modern tech uses it as a foundation to build upon.  If you want to create native GUI Win apps you will be using some variation of Win32 tech.  No getting around that.<br>
+<br>
+<table class="quote"><tr><td class="qd">Look, I want to do modern C++ gui apps.</td></tr></table><br>
+Well, since you are so sure about what's available why ask for assistance?<br>
+<br>
+I can create modern WinAPI apps using the WinAPI.  Formerly known as Win32.  The resulting apps can execute on x64 Windows natively.  Win10 or Win11.<br>
+<br>
+Win32 is just a name, think 'rose.'
+</div>
+<div class="dhow">
+<span class="dbtn" id="CH_btn1238770"></span>
+
+</div>
+</div>
+</div>
+<div class="C_forPost" id="msg1238771"><span title="1238771,797040,1023,5982,0"></span>
+<div class="box">
+<div class="boxtop">
+<div class="dwhen"><a href="#msg1238771" title="Link to this post"><img src="/img/link.png" width="16" height="8"></a> <span id="CH_zTm0cabd7ad5e" title="Mon, 20 Feb 2023 14:06:01 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTm0cabd7ad5e');</script><noscript>Feb 20, 2023 at 2:06pm UTC</noscript></div>
+<div class="dwho"><a href="/user/seeplus/"><b>seeplus</b> (5982)</a></div>
+</div>
+<div class="dwhat" colspan="2" id="CH_i1238771">
+<table class="quote"><tr><td class="qd">I am not interested in 32 bit apps</td></tr></table><br>
+<br>
+So compile as 64-bit and not 32-bit.<br>
+<br>
+<table class="quote"><tr><td class="qd">I just want to do 64 bit Windows 11 apps</td></tr></table><br>
+<br>
+Yes - but what do you mean by an 'app'. MS app means a UWP program that has to be installed as an 'app' as opposed to a '.exe program' that can just be executed. If you mean a Windows 11 UWP app then with C++ you're restricted to C++/winrt as far as I know.<br>
+
+</div>
+<div class="dhow">
+<span class="dbtn" id="CH_btn1238771"></span>
+
+</div>
+</div>
+</div>
+<div class="C_forPost" id="msg1238773"><span title="1238773,1143017,1023,348,0"></span>
+<div class="box">
+<div class="boxtop">
+<div class="dwhen"><a href="#msg1238773" title="Link to this post"><img src="/img/link.png" width="16" height="8"></a> <span id="CH_zTma217350ee0" title="Mon, 20 Feb 2023 15:58:04 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTma217350ee0');</script><noscript>Feb 20, 2023 at 3:58pm UTC</noscript></div>
+<div class="dwho"><a href="/user/Geckoo/"><b>Geckoo</b> (348)</a></div>
+</div>
+<div class="dwhat" colspan="2" id="CH_i1238773">
+Hello. I like to read books in order to learn something. The Internet is not for me the most interesting way to learn - or maybe by watching videos. I prefer paper books. Reading your request it seems to me that you want to develop an api using GDI+ (or another graphical interface like imGui or QT). The last one could interest you. Not easy - maybe too sophisticated. When you will experienced with QT I guess that you can create some useful applications. May I suggest you to take a look at the C# which allows you to quickly create apps using a good graphical interface? I assume that you are under Windows. So we have many alternatives. Choose one - try others. Find your way ++
+</div>
+<div class="dhow">
+<span class="sedited">Last edited on <span id="CH_zTm17fb9611c8" title="Mon, 20 Feb 2023 15:59:04 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTm17fb9611c8');</script><noscript>Feb 20, 2023 at 3:59pm UTC</noscript></span>
+<span class="dbtn" id="CH_btn1238773"></span>
+
+</div>
+</div>
+</div>
+<div class="C_forPost" id="msg1238774"><span title="1238774,455644,1023,5239,0"></span>
+<div class="box">
+<div class="boxtop">
+<div class="dwhen"><a href="#msg1238774" title="Link to this post"><img src="/img/link.png" width="16" height="8"></a> <span id="CH_zTma2d6eb0028" title="Mon, 20 Feb 2023 15:58:58 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTma2d6eb0028');</script><noscript>Feb 20, 2023 at 3:58pm UTC</noscript></div>
+<div class="dwho"><a href="/user/George_P/"><b>George P</b> (5239)</a></div>
+</div>
+<div class="dwhat" colspan="2" id="CH_i1238774">
+Great that you have ideas you want to develop.  Yet you dismiss out of hand suggestions to assist you from people who have experience.<br>
+<br>
+A Windows GUI app can be created by one of several different ways, using different available technologies.  Technologies that now are no longer shackled to just Windows-based devices.<br>
+<br>
+There are apps that are targeted to be what is known as Desktop apps, or apps that are universal apps that can execute on different Windows-based platforms.<br>
+<br>
+Windows app development has a very diverse ecosystem.  Visual Studio is a decent integrated development environment with available packages for the different technologies.<br>
+<br>
+What you can learn about Windows development is available online, though not together in one neat package like a book.  A book is usually out-dated from the moment its published and gets more so the older the book.  Online resources can be less out-dated.  Online MS resources are hit and miss in that area.<br>
+<br>
+Writing apps for Windows - Windows apps | Microsoft Learn<br>
+<a href="https://learn.microsoft.com/en-us/windows/apps/get-started/">https://learn.microsoft.com/en-us/windows/apps/get-started/</a><br>
+<br>
+<table class="quote"><tr><td class="qd">If your app will only run on Windows, we recommend using the Windows App SDK and WinUI 3.</td></tr></table><br>
+Hmmmmm, Windows App SDK.  Follow that link and we get:<br>
+<a href="https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/">https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/</a><br>
+<br>
+<table class="quote"><tr><td class="qd">The Windows App SDK doesn't replace the Windows SDK or existing desktop Windows app types such as .NET (including Windows Forms and WPF) and <b><i><u>desktop Win32 with C++.</u></i></b> (emphasis added) Instead, the Windows App SDK complements these existing tools and app types with a common set of APIs that developers can rely on across these platforms.</td></tr></table><br>
+Desktop Win32 app development is not 'dying', no matter what you think or have been told.<br>
+<br>
+Maybe if you gave a brief description of what you'd like to create, so we can better focus on pointing out the relevant technologies best suited for doing that.<br>
+<br>
+I certainly wouldn't think of trying to create an Android, iOS, Mac or Linux app using Desktop Win32 tech.
+</div>
+<div class="dhow">
+<span class="dbtn" id="CH_btn1238774"></span>
+
+</div>
+</div>
+</div>
+<div class="C_forPost" id="msg1238776"><span title="1238776,797040,1023,5982,0"></span>
+<div class="box">
+<div class="boxtop">
+<div class="dwhen"><a href="#msg1238776" title="Link to this post"><img src="/img/link.png" width="16" height="8"></a> <span id="CH_zTm1fdb914d23" title="Mon, 20 Feb 2023 17:07:27 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTm1fdb914d23');</script><noscript>Feb 20, 2023 at 5:07pm UTC</noscript></div>
+<div class="dwho"><a href="/user/seeplus/"><b>seeplus</b> (5982)</a></div>
+</div>
+<div class="dwhat" colspan="2" id="CH_i1238776">
+<table class="quote"><tr><td class="qd">Windows App SDK and WinUI 3</td></tr></table><br>
+<br>
+Yet another way from MS! I've now lost count of the different systems that MS has introduced over the past years - trumpeted its greatness and then abandoned it... I wonder if this is a replacement/update for winrt?<br>
+<br>
+As I mentioned in one of my previous posts, if I was now wanting to produce 'modern' Windows gui programs I'd be carefully looking at C++ Builder from Embarcadero with it's VCL.<br>
+
+</div>
+<div class="dhow">
+<span class="sedited">Last edited on <span id="CH_zTm087bac32dc" title="Mon, 20 Feb 2023 17:09:57 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTm087bac32dc');</script><noscript>Feb 20, 2023 at 5:09pm UTC</noscript></span>
+<span class="dbtn" id="CH_btn1238776"></span>
+
+</div>
+</div>
+</div>
+<div class="C_forPost" id="msg1238777"><span title="1238777,455644,1023,5239,0"></span>
+<div class="box">
+<div class="boxtop">
+<div class="dwhen"><a href="#msg1238777" title="Link to this post"><img src="/img/link.png" width="16" height="8"></a> <span id="CH_zTm34205e28bf" title="Mon, 20 Feb 2023 17:31:15 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTm34205e28bf');</script><noscript>Feb 20, 2023 at 5:31pm UTC</noscript></div>
+<div class="dwho"><a href="/user/George_P/"><b>George P</b> (5239)</a></div>
+</div>
+<div class="dwhat" colspan="2" id="CH_i1238777">
+I have lost count -- and interest -- in chasing after all the new UI dangling shiny bits MS keeps holding up to distract developers away from thinking about using non-MS development technologies.<br>
+<br>
+I used to use several earlier versions of C++B (4, 5 &amp; 6), as well as Delphi, before Embarcadero was bought out.  Before the company IMO ruined the IDE and bloated it up as if it were something designed by MS.<br>
+<br>
+I prefer using Desktop Win32/WinAPI over all these new-fangled UI squirrels, it suits what I want to do.  I can spend more time mucking around in the guts of my app instead of worrying about the glitzy look.<br>
+<br>
+IF I ever decided to do a project that required using a different UI tech I'd learn that.<br>
+<br>
+I am a self-taught hobbyist programmer who has little to no need nor desire to "stay current."
+</div>
+<div class="dhow">
+<span class="dbtn" id="CH_btn1238777"></span>
+
+</div>
+</div>
+</div>
+<div class="C_forPost" id="msg1238778"><span title="1238778,455644,1023,5239,0"></span>
+<div class="box">
+<div class="boxtop">
+<div class="dwhen"><a href="#msg1238778" title="Link to this post"><img src="/img/link.png" width="16" height="8"></a> <span id="CH_zTm9829f582c8" title="Mon, 20 Feb 2023 17:42:55 +0000"></span><script type="text/javascript">cplusplus.WhenId('CH_zTm9829f582c8');</script><noscript>Feb 20, 2023 at 5:42pm UTC</noscript></div>
+<div class="dwho"><a href="/user/George_P/"><b>George P</b> (5239)</a></div>
+</div>
+<div class="dwhat" colspan="2" id="CH_i1238778">
+C++B and Delphi, oh, my.  Those were two excellent Rapid Application Development environments.  Designing a UI was similar to drawing a picture in Paintshop.<br>
+<br>
+If the VCL didn't have a native component there were a number of website and companies that offered free and paid components to fit virtually any need.<br>
+<br>
+Torry's Delphi Pages and Delphi Super Page were a great source.<br>
+<a href="https://torry.net/index.php">https://torry.net/index.php</a><br>
+<a href="http://delphi.icm.edu.pl/">http://delphi.icm.edu.pl/</a><br>
+<br>
+C++B could use Delphi components with ease.  The Delphi RAD IDE needed more than a bit of a nudge to use C++B components, if at all.<br>
+<br>
+I've tried the recent versions of C++B and Delphi, and either they refused to install on my Win10 x64 Pro development machine, or crashed when trying to use it.
+</div>
+<div class="dhow">
+<span class="dbtn" id="CH_btn1238778"></span>
+
+</div>
+</div>
+</div>
+</div><div class="rootinsMore"></div><div class="rootbtnMore"></div><div class="rootinsNew"></div><div class="rootbtnNew"></div><div id="CH_insNew"></div><div id="CH_reply">Registered users can post here. <a href="/user/">Sign in or register</a> to post.</div><div id="CH_subscription"></div><div class="rootedtNew"></div><script type="text/javascript">new cplusplus.for_PostList(285291,0,836624,0,'CH_PostList','CH_subscription','CH_reply','CH_insNew','CH_edttl','/forum/thread.cgi','/forum/post.cgi','/forum/myposts.cgi',64,32,512,256,1024,16);</script></div>
+<div class="C_bn" style="width:100%">
+
+<!-- cplusplus_S2S_Leaderboard_BTF_ROS -->
+        <style>
+            @media only screen and (min-width: 0px) and (min-height: 0px) {
+                div[id^="bsa-zone_1661765573868-8_123456"] {
+                    min-width: 300px;
+                    min-height: 50px;
+                }
+            }
+            @media only screen and (min-width: 640px) and (min-height: 0px) {
+                div[id^="bsa-zone_1661765573868-8_123456"] {
+                    min-width: 468px;
+                    min-height: 60px;
+                }
+            }
+        </style>
+        <div id="bsa-zone_1661765573868-8_123456"></div>
+</div>
+</div>
+<div id="I_midclear"></div>
+</div>
+</div>
+<div id="I_bottom">
+<div id="I_footer">
+	<a href="/">Home page</a> | <a href="/privacy.do">Privacy policy</a><br>&copy; cplusplus.com, 2000-2022 - All rights reserved - <i>v3.3.3</i><br><a href="/contact.do?referrer=cplusplus.com%2Fforum%2Fwindows%2F285291%2F">Spotted an error? contact us</a>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+<!--
+function NavFor(us) {document.getElementById('I_subnav').innerHTML=us.ok?'<div class="sect"><h3><b><a href="/user/">'+us.user+'</a></b></h3><ul><li><a href="/forum/myposts.cgi">My topics</a></li></ul></div>':'';}cplusplus.onSession(NavFor);cplusplus.ready();
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-521783-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+//-->
+</script>
+
+</body>
+</html>Hello Files
+Hello Files
+Hello Files
