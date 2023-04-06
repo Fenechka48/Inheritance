@@ -415,7 +415,7 @@ Human** load(int& n, const char* filename)
 
 //#define TIME_CHECK
 //#define INHERITANCE_CHECK
-#define POLYMORPHISM_CHECK
+//#define POLYMORPHISM_CHECK
 
 void main()
 {
