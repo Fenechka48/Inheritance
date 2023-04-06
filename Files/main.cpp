@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include<fstream>
 using namespace std;
 #define WRITE_TO_FILE
@@ -8,15 +8,15 @@ void main()
 	setlocale(LC_ALL, "");
 #ifdef WRITE_TO_FILE
 	char filename[_MAX_FNAME] = {};
-	cout << "Ââåäèòå èìÿ ôàéëà: ";
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¸Ð¼Ñ Ñ„Ð°Ð¹Ð»Ð°: ";
 	cin.getline(filename, _MAX_FNAME);
 	if (strcmp(filename + strlen(filename) - 4, ".txt"))strcat_s(filename,_MAX_FNAME,
 		".txt");
 
-	ofstream fout;                 //1) Ñîçäàåì ïîòîê
-	fout.open(filename, std::ios_base::app); //2)Îòêðûâàåì ïîòîê
-	fout << "Hello Files" << endl;            //3)Ïèøåì â ïîòîê
-	fout.close();      //4) Çàêðûâàåì ïîòîê
+	ofstream fout;                 //1) Ð¡Ð¾Ð·Ð´Ð°ÐµÐ¼ Ð¿Ð¾Ñ‚Ð¾Ðº
+	fout.open(filename, std::ios_base::app); //2)ÐžÑ‚ÐºÑ€Ñ‹Ð²Ð°ÐµÐ¼ Ð¿Ð¾Ñ‚Ð¾Ðº
+	fout << "Hello Files" << endl;            //3)ÐŸÐ¸ÑˆÐµÐ¼ Ð² Ð¿Ð¾Ñ‚Ð¾Ðº
+	fout.close();      //4) Ð—Ð°ÐºÑ€Ñ‹Ð²Ð°ÐµÐ¼ Ð¿Ð¾Ñ‚Ð¾Ðº
 
 	char sz_command[_MAX_FNAME] = "notepad ";
 	strcat_s(sz_command, _MAX_FNAME, filename);
